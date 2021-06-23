@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joe Rollman joe@gmail.com
 
 # THANKS
 
