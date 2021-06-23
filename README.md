@@ -5,6 +5,8 @@ This is a simple website project for GitHub.
 
 ## Introduction
 
+This updates the introduction.
+
 ## Purpose
 
 ## Deployment
