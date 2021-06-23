@@ -20,6 +20,8 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 fasdflkajsdflas
+more blah blah
+please fork
 
 ## Copywright
 
