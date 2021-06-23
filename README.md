@@ -20,3 +20,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 fasdflkajsdflas
+
+## Copywright
+
+2014 Git.Training.
